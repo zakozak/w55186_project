@@ -1,0 +1,28 @@
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\bin\Debug\project_bot.exe.config
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\bin\Debug\project_bot.exe
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\bin\Debug\project_bot.pdb
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.AddGoods.resources
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.AddOrder.resources
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.DeleteGoods.resources
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.Form1.resources
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.Orders.resources
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.Properties.Resources.resources
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.Store.resources
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_w55186_(SHOPlite).csproj.GenerateResource.Cache
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.exe
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.pdb
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_w55186_(SHOPlite).csprojResolveAssemblyReference.cache
+C:\Users\Димасик\Desktop\w55186_project\project_bot\bin\Debug\project_bot.exe.config
+C:\Users\Димасик\Desktop\w55186_project\project_bot\bin\Debug\project_bot.exe
+C:\Users\Димасик\Desktop\w55186_project\project_bot\bin\Debug\project_bot.pdb
+C:\Users\Димасик\Desktop\w55186_project\project_bot\obj\Debug\project_w55186_(SHOPlite).csprojResolveAssemblyReference.cache
+C:\Users\Димасик\Desktop\w55186_project\project_bot\obj\Debug\project_bot.AddGoods.resources
+C:\Users\Димасик\Desktop\w55186_project\project_bot\obj\Debug\project_bot.AddOrder.resources
+C:\Users\Димасик\Desktop\w55186_project\project_bot\obj\Debug\project_bot.DeleteGoods.resources
+C:\Users\Димасик\Desktop\w55186_project\project_bot\obj\Debug\project_bot.Form1.resources
+C:\Users\Димасик\Desktop\w55186_project\project_bot\obj\Debug\project_bot.Orders.resources
+C:\Users\Димасик\Desktop\w55186_project\project_bot\obj\Debug\project_bot.Properties.Resources.resources
+C:\Users\Димасик\Desktop\w55186_project\project_bot\obj\Debug\project_bot.Store.resources
+C:\Users\Димасик\Desktop\w55186_project\project_bot\obj\Debug\project_w55186_(SHOPlite).csproj.GenerateResource.Cache
+C:\Users\Димасик\Desktop\w55186_project\project_bot\obj\Debug\project_bot.exe
+C:\Users\Димасик\Desktop\w55186_project\project_bot\obj\Debug\project_bot.pdb

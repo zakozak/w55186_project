@@ -1,0 +1,23 @@
+C:\Users\Димас\Documents\Visual Studio 2017\Projects\project_bot-master\project_bot\bin\Debug\project_bot.exe.config
+C:\Users\Димас\Documents\Visual Studio 2017\Projects\project_bot-master\project_bot\bin\Debug\project_bot.exe
+C:\Users\Димас\Documents\Visual Studio 2017\Projects\project_bot-master\project_bot\bin\Debug\project_bot.pdb
+C:\Users\Димас\Documents\Visual Studio 2017\Projects\project_bot-master\project_bot\obj\Debug\project_bot.csprojResolveAssemblyReference.cache
+C:\Users\Димас\Documents\Visual Studio 2017\Projects\project_bot-master\project_bot\obj\Debug\project_bot.Form1.resources
+C:\Users\Димас\Documents\Visual Studio 2017\Projects\project_bot-master\project_bot\obj\Debug\project_bot.Properties.Resources.resources
+C:\Users\Димас\Documents\Visual Studio 2017\Projects\project_bot-master\project_bot\obj\Debug\project_bot.csproj.GenerateResource.Cache
+C:\Users\Димас\Documents\Visual Studio 2017\Projects\project_bot-master\project_bot\obj\Debug\project_bot.exe
+C:\Users\Димас\Documents\Visual Studio 2017\Projects\project_bot-master\project_bot\obj\Debug\project_bot.pdb
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\bin\Debug\project_bot.exe.config
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\bin\Debug\project_bot.exe
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\bin\Debug\project_bot.pdb
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.csprojResolveAssemblyReference.cache
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.Form1.resources
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.Properties.Resources.resources
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.csproj.GenerateResource.Cache
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.exe
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.pdb
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.Orders.resources
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.Store.resources
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.AddGoods.resources
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.AddOrder.resources
+C:\Users\Димасик\OneDrive - University of Information Technology and Management in Rzeszow\project_bot-master\project_bot\obj\Debug\project_bot.DeleteGoods.resources
