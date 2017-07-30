@@ -1,0 +1,9 @@
+digraph "project_bot.Store.button1_Click"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node10 [label="project_bot.Store.button1\l_Click",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid"];
+  Node11 [label="project_bot.SqlQueries.custom_que",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_sql_queries.html#aa2262a95cf3b8460641b79663ad7509e",tooltip="metoday dla wprowadzania wlasnej kwerendy (recznie) "];
+}

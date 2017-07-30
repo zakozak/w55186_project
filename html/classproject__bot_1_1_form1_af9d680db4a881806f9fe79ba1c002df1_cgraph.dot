@@ -1,0 +1,19 @@
+digraph "project_bot.Form1.InitializeComponent"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node27 [label="project_bot.Form1.Initialize\lComponent",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node27 -> Node28 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node28 [label="project_bot.Form1.showOrders\lToolStripMenuItem_Click",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_form1.html#a47e7e9a67932bbfafd59a75a6d511238"];
+  Node27 -> Node29 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node29 [label="project_bot.Form1.addOrder\lToolStripMenuItem_Click",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_form1.html#ae483d04b97a51a234a1120672f1655e4"];
+  Node27 -> Node30 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node30 [label="project_bot.Form1.showStore\lToolStripMenuItem1_Click",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_form1.html#a16b4ae77e7e32404669455ab50a7cc4e"];
+  Node27 -> Node31 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node31 [label="project_bot.Form1.addToStore\lToolStripMenuItem_Click",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_form1.html#a1d233cc400be90bb4bf0680a7e55511b"];
+  Node27 -> Node32 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node32 [label="project_bot.Form1.delete\lFromStoreToolStripMenuItem_Click",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_form1.html#a241665dc31d446e1f4a7482abbb8ad44"];
+  Node27 -> Node33 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node33 [label="project_bot.Form1.Form1_Load",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_form1.html#a6d312730b58049c8ee8527ca44bea75e"];
+}

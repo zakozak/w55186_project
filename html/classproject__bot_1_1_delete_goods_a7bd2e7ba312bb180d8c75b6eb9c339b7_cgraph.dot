@@ -1,0 +1,26 @@
+digraph "project_bot.DeleteGoods.InitializeComponent"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node32 [label="project_bot.DeleteGoods.\lInitializeComponent",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node32 -> Node33 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node33 [label="project_bot.DeleteGoods.delete\l_Click",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_delete_goods.html#a4aac5de189012c1bb7c1161b019b97a8"];
+  Node33 -> Node34 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node34 [label="project_bot.SqlQueries.update",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_sql_queries.html#a1fddf4e1d2ecebfb016f1231925c59ff",tooltip="aktuakizacja danych w istniejacym wpisie "];
+  Node32 -> Node35 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node35 [label="project_bot.DeleteGoods.close\l_Click",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_delete_goods.html#a845f1fe8c54f6b239984ce0916754cb8"];
+  Node32 -> Node36 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node36 [label="project_bot.DeleteGoods.\lDeleteGoods_Load",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_delete_goods.html#af370b0ab48634b8319c7e059775194fa"];
+  Node36 -> Node37 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node37 [label="project_bot.DeleteGoods.load\lFromMDBFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_delete_goods.html#abab9edf8ed6cdf9465263e469fad0e0b"];
+  Node37 -> Node38 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node38 [label="project_bot.Connection.fill\lDataSet",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_connection.html#af68118c08e33fec46caeb1c4b904d588",tooltip="filling data set "];
+  Node37 -> Node39 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node39 [label="project_bot.Connection.load\lDataBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_connection.html#a03f99178a79b05fef2f3a429a0a04df4",tooltip="filling data table "];
+  Node39 -> Node38 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node37 -> Node40 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node40 [label="project_bot.Connection.fill\lDataWeGetBefore",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_connection.html#a67557fe025a012e4ab1ad9bb949cb9c0",tooltip="filling data apadter "];
+  Node36 -> Node41 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node41 [label="project_bot.SqlQueries.custom_que",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_sql_queries.html#aa2262a95cf3b8460641b79663ad7509e",tooltip="metoday dla wprowadzania wlasnej kwerendy (recznie) "];
+}

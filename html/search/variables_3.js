@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['datagridview',['dataGridView',['../classproject__bot_1_1_add_goods.html#acae46f260dd4bf8505985c0e8d3c6382',1,'project_bot.AddGoods.dataGridView()'],['../classproject__bot_1_1_add_order.html#a0fc587a228ed4c21982dd7ef600e4396',1,'project_bot.AddOrder.dataGridView()'],['../classproject__bot_1_1_delete_goods.html#abe245fdce3a4e5551114f7b5bb7b4f3b',1,'project_bot.DeleteGoods.dataGridView()'],['../classproject__bot_1_1_orders.html#a99f87634c3a5abc32136dbc0041d496e',1,'project_bot.Orders.dataGridView()'],['../classproject__bot_1_1_store.html#a661c80473c748fcf645e97dc7146f062',1,'project_bot.Store.dataGridView()']]],
+  ['defaultinstance',['defaultInstance',['../classproject__bot_1_1_properties_1_1_settings.html#afc4b6f7d329338959907dd8aff4a5565',1,'project_bot::Properties::Settings']]],
+  ['delete',['delete',['../classproject__bot_1_1_delete_goods.html#a4e4a9dd8ec62ba939df17afa0eb99448',1,'project_bot::DeleteGoods']]],
+  ['deletefromstoretoolstripmenuitem',['deleteFromStoreToolStripMenuItem',['../classproject__bot_1_1_form1.html#a186cc3cc930d3082757cbbbcc5242eb4',1,'project_bot::Form1']]],
+  ['ds',['ds',['../classproject__bot_1_1_add_goods.html#a504b0ef96205a6dedfd3336df7374d3a',1,'project_bot.AddGoods.ds()'],['../classproject__bot_1_1_add_order.html#a0ed64438061ff68228ca5f23000ae7d2',1,'project_bot.AddOrder.ds()'],['../classproject__bot_1_1_delete_goods.html#a8360985013a4433153c4314fa92d3ee9',1,'project_bot.DeleteGoods.ds()'],['../classproject__bot_1_1_orders.html#a67cc9e01d3bf220a72d3dfbf11afa8f2',1,'project_bot.Orders.ds()'],['../classproject__bot_1_1_store.html#a2ef084860ab026e2198446e958c6a904',1,'project_bot.Store.ds()']]]
+];

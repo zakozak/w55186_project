@@ -1,0 +1,786 @@
+Searching for include files...
+Searching for example files...
+Searching for images...
+Searching for dot files...
+Searching for msc files...
+Searching for dia files...
+Searching for files to exclude
+Searching INPUT for files to process...
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/html
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/html/search
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/latex
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common/cs
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common/de
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common/es
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common/fr
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common/it
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common/ja
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common/ko
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common/pl
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common/pt
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common/ru
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common/tr
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common/zh-Hans
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/_common/zh-Hant
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/net45
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/netstandard1.0
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestAdapter.1.1.11/build/uap10.0
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet/cs
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet/de
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet/es
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet/fr
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet/it
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet/ja
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet/ko
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet/pl
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet/pt
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet/ru
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet/tr
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet/zh-Hans
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/dotnet/zh-Hant
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45/cs
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45/de
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45/es
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45/fr
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45/it
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45/ja
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45/ko
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45/pl
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45/pt
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45/ru
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45/tr
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45/zh-Hans
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/net45/zh-Hant
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0/cs
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0/de
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0/es
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0/fr
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0/it
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0/ja
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0/ko
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0/pl
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0/pt
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0/ru
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0/tr
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0/zh-Hans
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/netcoreapp1.0/zh-Hant
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0/cs
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0/de
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0/es
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0/fr
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0/it
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0/ja
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0/ko
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0/pl
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0/pt
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0/ru
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0/tr
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0/zh-Hans
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/packages/MSTest.TestFramework.1.1.11/lib/uap10.0/zh-Hant
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/project_bot
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/project_bot/bin
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/project_bot/bin/Debug
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/project_bot/bin/Release
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/project_bot/obj
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/project_bot/obj/Debug
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/project_bot/obj/Debug/TempPE
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/project_bot/obj/Release
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/project_bot/Properties
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/TestResults
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/bin
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/bin/Debug
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/bin/Release
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/obj
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/obj/Debug
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/obj/Debug/TempPE
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/Properties
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/bin
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/bin/Debug
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/bin/Debug/ru
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/obj
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/obj/Debug
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/obj/Debug/TempPE
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/Properties
+Searching for files in directory C:/Users/Димасик/Desktop/w55186_project/xml
+Reading and parsing tag files
+Parsing files
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/AddGoods.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/AddGoods.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/AddGoods.Designer.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/AddGoods.Designer.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/AddOrder.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/AddOrder.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/AddOrder.Designer.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/AddOrder.Designer.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/Connection.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/Connection.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/DeleteGoods.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/DeleteGoods.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/DeleteGoods.Designer.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/DeleteGoods.Designer.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/Form1.Designer.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/Form1.Designer.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/Main.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/Main.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/Orders.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/Orders.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/Orders.Designer.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/Orders.Designer.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/Program.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/Program.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/Properties/AssemblyInfo.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/Properties/AssemblyInfo.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/Properties/Resources.Designer.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/Properties/Resources.Designer.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/Properties/Settings.Designer.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/Properties/Settings.Designer.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/sqlQueries.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/sqlQueries.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/Store.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/Store.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/project_bot/Store.Designer.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/project_bot/Store.Designer.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/Properties/AssemblyInfo.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/Properties/AssemblyInfo.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/UnitTest.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/UnitTestProject1/UnitTest.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/Properties/AssemblyInfo.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/Properties/AssemblyInfo.cs...
+Preprocessing C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/UnitTest1.cs...
+Parsing file C:/Users/Димасик/Desktop/w55186_project/UnitTestProject2/UnitTest1.cs...
+Building group list...
+Building directory list...
+Building namespace list...
+Building file list...
+Building class list...
+Associating documentation with classes...
+Computing nesting relations for classes...
+Building example list...
+Searching for enumerations...
+Searching for documented typedefs...
+Searching for members imported via using declarations...
+Searching for included using directives...
+Searching for documented variables...
+Building interface member list...
+Building member list...
+Searching for friends...
+Searching for documented defines...
+Computing class inheritance relations...
+Computing class usage relations...
+Flushing cached template relations that have become invalid...
+Computing class relations...
+Add enum values to enums...
+Searching for member function documentation...
+Creating members for template instances...
+Building page list...
+Search for main page...
+Computing page relations...
+Determining the scope of groups...
+Sorting lists...
+Freeing entry tree
+Determining which enums are documented
+Computing member relations...
+Building full member lists recursively...
+Adding members to member groups.
+Computing member references...
+Inheriting documentation...
+Generating disk names...
+Adding source references...
+Adding xrefitems...
+Sorting member lists...
+Computing dependencies between directories...
+Generating citations page...
+Counting data structures...
+Resolving user defined references...
+Finding anchors and sections in the documentation...
+Transferring function references...
+Combining using relations...
+Adding members to index pages...
+Generating style sheet...
+Generating search indices...
+Generating example documentation...
+Generating file sources...
+Parsing code for file project_bot/AddGoods.cs...
+Parsing code for file project_bot/AddGoods.Designer.cs...
+Parsing code for file project_bot/AddOrder.cs...
+Parsing code for file project_bot/AddOrder.Designer.cs...
+Parsing code for file project_bot/Connection.cs...
+Parsing code for file project_bot/DeleteGoods.cs...
+Parsing code for file project_bot/DeleteGoods.Designer.cs...
+Parsing code for file project_bot/Form1.Designer.cs...
+Parsing code for file project_bot/Main.cs...
+Parsing code for file project_bot/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs...
+Parsing code for file UnitTestProject1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs...
+Parsing code for file UnitTestProject2/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs...
+Parsing code for file project_bot/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs...
+Parsing code for file UnitTestProject1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs...
+Parsing code for file UnitTestProject2/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs...
+Parsing code for file project_bot/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs...
+Parsing code for file UnitTestProject1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs...
+Parsing code for file UnitTestProject2/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs...
+Parsing code for file project_bot/Orders.cs...
+Parsing code for file project_bot/Orders.Designer.cs...
+Parsing code for file project_bot/Program.cs...
+Parsing code for file project_bot/Properties/AssemblyInfo.cs...
+Parsing code for file UnitTestProject1/Properties/AssemblyInfo.cs...
+Parsing code for file UnitTestProject2/Properties/AssemblyInfo.cs...
+Parsing code for file project_bot/Properties/Resources.Designer.cs...
+Parsing code for file project_bot/Properties/Settings.Designer.cs...
+Parsing code for file project_bot/sqlQueries.cs...
+Parsing code for file project_bot/Store.cs...
+Parsing code for file project_bot/Store.Designer.cs...
+Parsing code for file UnitTestProject1/UnitTest.cs...
+Parsing code for file UnitTestProject2/UnitTest1.cs...
+Generating file documentation...
+Generating docs for file project_bot/AddGoods.cs...
+Generating docs for file project_bot/AddGoods.Designer.cs...
+Generating docs for file project_bot/AddOrder.cs...
+Generating docs for file project_bot/AddOrder.Designer.cs...
+Generating docs for file project_bot/Connection.cs...
+Generating docs for file project_bot/DeleteGoods.cs...
+Generating docs for file project_bot/DeleteGoods.Designer.cs...
+Generating docs for file project_bot/Form1.Designer.cs...
+Generating docs for file project_bot/Main.cs...
+Generating docs for file project_bot/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs...
+Generating docs for file UnitTestProject1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs...
+Generating docs for file UnitTestProject2/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs...
+Generating docs for file project_bot/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs...
+Generating docs for file UnitTestProject1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs...
+Generating docs for file UnitTestProject2/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs...
+Generating docs for file project_bot/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs...
+Generating docs for file UnitTestProject1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs...
+Generating docs for file UnitTestProject2/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs...
+Generating docs for file project_bot/Orders.cs...
+Generating docs for file project_bot/Orders.Designer.cs...
+Generating docs for file project_bot/Program.cs...
+Generating docs for file project_bot/Properties/AssemblyInfo.cs...
+Generating docs for file UnitTestProject1/Properties/AssemblyInfo.cs...
+Generating docs for file UnitTestProject2/Properties/AssemblyInfo.cs...
+Generating docs for file project_bot/Properties/Resources.Designer.cs...
+Generating docs for file project_bot/Properties/Settings.Designer.cs...
+Generating docs for file project_bot/sqlQueries.cs...
+Generating docs for file project_bot/Store.cs...
+Generating docs for file project_bot/Store.Designer.cs...
+Generating docs for file UnitTestProject1/UnitTest.cs...
+Generating docs for file UnitTestProject2/UnitTest1.cs...
+Generating page documentation...
+Generating group documentation...
+Generating class documentation...
+Generating namespace index...
+Generating docs for namespace project_bot
+Generating docs for compound project_bot::AddGoods...
+Generating call graph for function project_bot.AddGoods.AddGoods
+Generating call graph for function project_bot.AddGoods.add_Click
+Generating caller graph for function project_bot.AddGoods.add_Click
+Generating call graph for function project_bot.AddGoods.AddGoods_Load
+Generating caller graph for function project_bot.AddGoods.AddGoods_Load
+Generating caller graph for function project_bot.AddGoods.close_Click
+Generating call graph for function project_bot.AddGoods.InitializeComponent
+Generating caller graph for function project_bot.AddGoods.InitializeComponent
+Generating call graph for function project_bot.AddGoods.loadFromMDBFile
+Generating caller graph for function project_bot.AddGoods.loadFromMDBFile
+Generating docs for compound project_bot::AddOrder...
+Generating call graph for function project_bot.AddOrder.AddOrder
+Generating call graph for function project_bot.AddOrder.AddOrder_Load
+Generating caller graph for function project_bot.AddOrder.AddOrder_Load
+Generating caller graph for function project_bot.AddOrder.close_Click
+Generating call graph for function project_bot.AddOrder.InitializeComponent
+Generating caller graph for function project_bot.AddOrder.InitializeComponent
+Generating call graph for function project_bot.AddOrder.loadFromMDBFile
+Generating caller graph for function project_bot.AddOrder.loadFromMDBFile
+Generating call graph for function project_bot.AddOrder.order_Click
+Generating caller graph for function project_bot.AddOrder.order_Click
+Generating caller graph for function project_bot.AddOrder.textBox_TextChanged
+Generating docs for compound project_bot::Connection...
+Generating caller graph for function project_bot.Connection.fillDataSet
+Generating caller graph for function project_bot.Connection.fillDataWeGetBefore
+Generating call graph for function project_bot.Connection.loadDataBase
+Generating caller graph for function project_bot.Connection.loadDataBase
+Generating docs for compound project_bot::DeleteGoods...
+Generating call graph for function project_bot.DeleteGoods.DeleteGoods
+Generating caller graph for function project_bot.DeleteGoods.close_Click
+Generating call graph for function project_bot.DeleteGoods.delete_Click
+Generating caller graph for function project_bot.DeleteGoods.delete_Click
+Generating call graph for function project_bot.DeleteGoods.DeleteGoods_Load
+Generating caller graph for function project_bot.DeleteGoods.DeleteGoods_Load
+Generating call graph for function project_bot.DeleteGoods.InitializeComponent
+Generating caller graph for function project_bot.DeleteGoods.InitializeComponent
+Generating call graph for function project_bot.DeleteGoods.loadFromMDBFile
+Generating caller graph for function project_bot.DeleteGoods.loadFromMDBFile
+Generating docs for compound project_bot::Form1...
+Generating call graph for function project_bot.Form1.Form1
+Generating caller graph for function project_bot.Form1.addOrderToolStripMenuItem_Click
+Generating caller graph for function project_bot.Form1.addToStoreToolStripMenuItem_Click
+Generating caller graph for function project_bot.Form1.deleteFromStoreToolStripMenuItem_Click
+Generating caller graph for function project_bot.Form1.Form1_Load
+Generating call graph for function project_bot.Form1.InitializeComponent
+Generating caller graph for function project_bot.Form1.InitializeComponent
+Generating caller graph for function project_bot.Form1.showOrdersToolStripMenuItem_Click
+Generating caller graph for function project_bot.Form1.showStoreToolStripMenuItem1_Click
+Generating docs for compound project_bot::Orders...
+Generating call graph for function project_bot.Orders.Orders
+Generating call graph for function project_bot.Orders.button1_Click
+Generating caller graph for function project_bot.Orders.button1_Click
+Generating call graph for function project_bot.Orders.InitializeComponent
+Generating caller graph for function project_bot.Orders.InitializeComponent
+Generating call graph for function project_bot.Orders.loadFromMDBFile
+Generating caller graph for function project_bot.Orders.loadFromMDBFile
+Generating call graph for function project_bot.Orders.Orders_Load
+Generating caller graph for function project_bot.Orders.Orders_Load
+Generating docs for compound project_bot::Program...
+Generating docs for compound project_bot::SqlQueries...
+Generating caller graph for function project_bot.SqlQueries.add
+Generating caller graph for function project_bot.SqlQueries.custom_que
+Generating caller graph for function project_bot.SqlQueries.update
+Generating docs for compound project_bot::Store...
+Generating call graph for function project_bot.Store.Store
+Generating call graph for function project_bot.Store.button1_Click
+Generating caller graph for function project_bot.Store.button1_Click
+Generating call graph for function project_bot.Store.InitializeComponent
+Generating caller graph for function project_bot.Store.InitializeComponent
+Generating call graph for function project_bot.Store.loadFromMDBFile
+Generating caller graph for function project_bot.Store.loadFromMDBFile
+Generating call graph for function project_bot.Store.Store_Load
+Generating caller graph for function project_bot.Store.Store_Load
+Generating docs for namespace project_bot::Properties
+Generating docs for compound project_bot::Properties::Resources...
+Generating docs for compound project_bot::Properties::Settings...
+Generating docs for namespace UnitTestProject1
+Generating docs for compound UnitTestProject1::UnitTest1...
+Generating docs for namespace UnitTestProject2
+Generating docs for compound UnitTestProject2::UnitTest1...
+Generating call graph for function UnitTestProject2.UnitTest1.TestMethod1
+Generating graph info page...
+Generating directory documentation...
+Generating index page...
+Generating page index...
+Generating module index...
+Generating namespace index...
+Generating namespace member index...
+Generating annotated compound index...
+Generating alphabetical compound index...
+Generating hierarchical class index...
+Generating graphical class hierarchy...
+Generating member index...
+Generating file index...
+Generating file member index...
+Generating example index...
+finalizing index lists...
+writing tag file...
+Running dot...
+Generating dot graphs using 9 parallel threads...
+Running dot for graph 1/171
+Running dot for graph 2/171
+Running dot for graph 3/171
+Running dot for graph 4/171
+Running dot for graph 5/171
+Running dot for graph 6/171
+Running dot for graph 7/171
+Running dot for graph 8/171
+Running dot for graph 9/171
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods__coll__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a69ef72ba53764c2968d6b264eab86d44_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a69ef72ba53764c2968d6b264eab86d44_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods__coll__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a69ef72ba53764c2968d6b264eab86d44_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a69ef72ba53764c2968d6b264eab86d44_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a69ef72ba53764c2968d6b264eab86d44_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a69ef72ba53764c2968d6b264eab86d44_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods__inherit__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a3b3cc8b3f93a9fec4f422e7ab30c0dc7_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a3b3cc8b3f93a9fec4f422e7ab30c0dc7_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a3b3cc8b3f93a9fec4f422e7ab30c0dc7_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a3b3cc8b3f93a9fec4f422e7ab30c0dc7_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_acff8099e110541177e1c0c6999a1f011_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_acff8099e110541177e1c0c6999a1f011_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods__inherit__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods__inherit__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_acff8099e110541177e1c0c6999a1f011_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_acff8099e110541177e1c0c6999a1f011_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_acff8099e110541177e1c0c6999a1f011_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_acff8099e110541177e1c0c6999a1f011_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a6962bb982f14d2f74d0c59f7ba506331_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a6962bb982f14d2f74d0c59f7ba506331_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a69ef72ba53764c2968d6b264eab86d44_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a69ef72ba53764c2968d6b264eab86d44_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a3b9c4da6e418aa004cfe639221bfb99e_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a3b9c4da6e418aa004cfe639221bfb99e_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_acff8099e110541177e1c0c6999a1f011_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_acff8099e110541177e1c0c6999a1f011_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a3b9c4da6e418aa004cfe639221bfb99e_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a3b9c4da6e418aa004cfe639221bfb99e_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a6962bb982f14d2f74d0c59f7ba506331_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a6962bb982f14d2f74d0c59f7ba506331_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a8ab32e201e6fe3b27d5d5681a419c01f_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a8ab32e201e6fe3b27d5d5681a419c01f_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a8ab32e201e6fe3b27d5d5681a419c01f_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a8ab32e201e6fe3b27d5d5681a419c01f_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a3b9c4da6e418aa004cfe639221bfb99e_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a3b9c4da6e418aa004cfe639221bfb99e_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a8ab32e201e6fe3b27d5d5681a419c01f_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a8ab32e201e6fe3b27d5d5681a419c01f_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a8ab32e201e6fe3b27d5d5681a419c01f_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a8ab32e201e6fe3b27d5d5681a419c01f_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a3b9c4da6e418aa004cfe639221bfb99e_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_goods_a3b9c4da6e418aa004cfe639221bfb99e_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order__inherit__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order__coll__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a70759d62195c7b92d5680be53ca76937_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a70759d62195c7b92d5680be53ca76937_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order__coll__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order__inherit__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order__inherit__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a70759d62195c7b92d5680be53ca76937_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a70759d62195c7b92d5680be53ca76937_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a3d32201f08112f66db4b7276f14b083d_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a3d32201f08112f66db4b7276f14b083d_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a3d32201f08112f66db4b7276f14b083d_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a3d32201f08112f66db4b7276f14b083d_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a3d32201f08112f66db4b7276f14b083d_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a3d32201f08112f66db4b7276f14b083d_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a77fd72f115685ffcfde4a0c7cc5765ed_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a77fd72f115685ffcfde4a0c7cc5765ed_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a77fd72f115685ffcfde4a0c7cc5765ed_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a77fd72f115685ffcfde4a0c7cc5765ed_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a7e3d4f70086017c86773a3ae31bfb61f_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a7e3d4f70086017c86773a3ae31bfb61f_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a7e3d4f70086017c86773a3ae31bfb61f_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a7e3d4f70086017c86773a3ae31bfb61f_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a3d32201f08112f66db4b7276f14b083d_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a3d32201f08112f66db4b7276f14b083d_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a7e3d4f70086017c86773a3ae31bfb61f_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a7e3d4f70086017c86773a3ae31bfb61f_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a7e3d4f70086017c86773a3ae31bfb61f_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a7e3d4f70086017c86773a3ae31bfb61f_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a7a2ef5caf24d7e09afb85ac0632dc71d_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a7a2ef5caf24d7e09afb85ac0632dc71d_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a4632021406842a0822c18a161c117faa_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a4632021406842a0822c18a161c117faa_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a4632021406842a0822c18a161c117faa_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a4632021406842a0822c18a161c117faa_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a7a2ef5caf24d7e09afb85ac0632dc71d_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a7a2ef5caf24d7e09afb85ac0632dc71d_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a4632021406842a0822c18a161c117faa_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a4632021406842a0822c18a161c117faa_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a7a2ef5caf24d7e09afb85ac0632dc71d_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a7a2ef5caf24d7e09afb85ac0632dc71d_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a7a2ef5caf24d7e09afb85ac0632dc71d_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a7a2ef5caf24d7e09afb85ac0632dc71d_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a4632021406842a0822c18a161c117faa_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a4632021406842a0822c18a161c117faa_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a684cfffc3512c46fbbc2b14545fc8109_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_order_a684cfffc3512c46fbbc2b14545fc8109_icgraph.png"'
+error: PrRunning dot for graph 10/171
+Running dot for graph 11/171
+Running dot for graph 12/171
+Running dot for graph 13/171
+Running dot for graph 14/171
+Running dot for graph 15/171
+Running dot for graph 16/171
+Running dot for graph 17/171
+Running dot for graph 18/171
+Running dot for graph 19/171
+Running dot for graph 20/171
+Running dot for graph 21oblems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_connection_af68118c08e33fec46caeb1c4b904d588_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_connection_af68118c08e33fec46caeb1c4b904d588_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_connection_af68118c08e33fec46caeb1c4b904d588_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_connection_af68118c08e33fec46caeb1c4b904d588_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_connection_a67557fe025a012e4ab1ad9bb949cb9c0_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_connection_a67557fe025a012e4ab1ad9bb949cb9c0_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_connection_a03f99178a79b05fef2f3a429a0a04df4_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_connection_a03f99178a79b05fef2f3a429a0a04df4_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a684cfffc3512c46fbbc2b14545fc8109_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_add_order_a684cfffc3512c46fbbc2b14545fc8109_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_connection_a67557fe025a012e4ab1ad9bb949cb9c0_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_connection_a67557fe025a012e4ab1ad9bb949cb9c0_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_connection_a03f99178a79b05fef2f3a429a0a04df4_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_connection_a03f99178a79b05fef2f3a429a0a04df4_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_connection_a03f99178a79b05fef2f3a429a0a04df4_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_connection_a03f99178a79b05fef2f3a429a0a04df4_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_connection_a03f99178a79b05fef2f3a429a0a04df4_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_connection_a03f99178a79b05fef2f3a429a0a04df4_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods__inherit__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods__inherit__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods__inherit__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods__coll__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_/171
+Running dot for graph 22/171
+Running dot for graph 23/171
+Running dot for graph 24/171
+Running dot for graph 25/171
+Running dot for graph 26/171
+Running dot for graph 27/171
+Running dot for graph 28/171
+Running dot for graph 29/171
+Running dot for graph 30/171
+Running dot for graph 31/171
+Running dot for graph 32/171
+Running dot for graph 33/171
+Running dot for graph 34/171
+Running dot for graph 35/171
+Running dot for graph 36/171
+Running dot for graph 37/171
+Running dot for graph 38/171
+Running dot for graph 39/171
+Running dot for graph 40/171
+Running dot for graph 41/171
+Running dot for graph 42/171
+Running dot for graph 43/171
+Running dot for graph 44/171
+Running dot for graph 45/171
+Running dot for graph 46/171
+Running dot for graph 47/171
+Running dot for graph 48/171
+Running dot for graph 49/171
+Running dot for graph 50/171
+Running dot for graph 51/171
+Running dot for graph 52/171
+Running dot for graph 53/171
+Running dot for graph 54/171
+Running dot for graph 55/171
+Running dot for graph 56/171
+Running dot for graph 57/171
+Running dot for graph 58/171
+Running dot for graph 59/171
+Running dot for graph 60/171
+Running dot for graph 61/171
+Running dot for graph 62/171
+Running dot for graph 63/171
+Running dot for graph 64/171
+Running dot for graph 65/171
+Running dot for graph 66/171
+Running dot for graph 67/171
+Running dot for graph 68/171
+Running dot for graph 69/171
+project/latex/classproject__bot_1_1_delete_goods__coll__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_aa54c37fcade489d8a3814b99d644bdc3_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_aa54c37fcade489d8a3814b99d644bdc3_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_aa54c37fcade489d8a3814b99d644bdc3_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_aa54c37fcade489d8a3814b99d644bdc3_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_a845f1fe8c54f6b239984ce0916754cb8_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_a845f1fe8c54f6b239984ce0916754cb8_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_a4aac5de189012c1bb7c1161b019b97a8_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_a4aac5de189012c1bb7c1161b019b97a8_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_a4aac5de189012c1bb7c1161b019b97a8_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_a4aac5de189012c1bb7c1161b019b97a8_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_a4aac5de189012c1bb7c1161b019b97a8_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_a4aac5de189012c1bb7c1161b019b97a8_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_a845f1fe8c54f6b239984ce0916754cb8_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_a845f1fe8c54f6b239984ce0916754cb8_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_af370b0ab48634b8319c7e059775194fa_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_af370b0ab48634b8319c7e059775194fa_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_a4aac5de189012c1bb7c1161b019b97a8_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_a4aac5de189012c1bb7c1161b019b97a8_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_af370b0ab48634b8319c7e059775194fa_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_af370b0ab48634b8319c7e059775194fa_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_af370b0ab48634b8319c7e059775194fa_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_af370b0ab48634b8319c7e059775194fa_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_a7bd2e7ba312bb180d8c75b6eb9c339b7_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_a7bd2e7ba312bb180d8c75b6eb9c339b7_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_a7bd2e7ba312bb180d8c75b6eb9c339b7_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_a7bd2e7ba312bb180d8c75b6eb9c339b7_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_abab9edf8ed6cdf9465263e469fad0e0b_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_abab9edf8ed6cdf9465263e469fad0e0b_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_af370b0ab48634b8319c7e059775194fa_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_af370b0ab48634b8319c7e059775194fa_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_a7bd2e7ba312bb180d8c75b6eb9c339b7_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_a7bd2e7ba312bb180d8c75b6eb9c339b7_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_a7bd2e7ba312bb180d8c75b6eb9c339b7_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_a7bd2e7ba312bb180d8c75b6eb9c339b7_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_abab9edf8ed6cdf9465263e469fad0e0b_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_abab9edf8ed6cdf9465263e469fad0e0b_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_abab9edf8ed6cdf9465263e469fad0e0b_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_delete_goods_abab9edf8ed6cdf9465263e469fad0e0b_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_abab9edf8ed6cdf9465263e469fad0e0b_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_delete_goods_abab9edf8ed6cdf9465263e469fad0e0b_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1__coll__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1__inherit__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1__inherit__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1__inherit__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1__coll__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_a2d02bb4e7647a42a58a86fd94de1d415_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_a2d02bb4e7647a42a58a86fd94de1d415_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_a2d02bb4e7647a42a58a86fd94de1d415_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_a2d02bb4e7647a42a58a86fd94de1d415_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_ae483d04b97a51a234a1120672f1655e4_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_ae483d04b97a51a234a1120672f1655e4_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_a1d233cc400be90bb4bf0680a7e55511b_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_a1d233cc400be90bb4bf0680a7e55511b_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_a241665dc31d446e1f4a7482abbb8ad44_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_a241665dc31d446e1f4a7482abbb8ad44_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_a6d312730b58049c8ee8527ca44bea75e_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_a6d312730b58049c8ee8527ca44bea75e_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_a1d233cc400be90bb4bf0680a7e55511b_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_a1d233cc400be90bb4bf0680a7e55511b_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_a241665dc31d446e1f4a7482abbb8ad44_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_a241665dc31d446e1f4a7482abbb8ad44_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_ae483d04b97a51a234a1120672f1655e4_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_ae483d04b97a51a234a1120672f1655e4_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_a6d312730b58049c8ee8527ca44bea75e_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_a6d312730b58049c8ee8527ca44bea75e_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_af9d680db4a881806f9fe79ba1c002df1_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_af9d680db4a881806f9fe79ba1c002df1_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_af9d680db4a881806f9fe79ba1c002df1_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_af9d680db4a881806f9fe79ba1c002df1_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_af9d680db4a881806f9fe79ba1c002df1_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_af9d680db4a881806f9fe79ba1c002df1_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_a16b4ae77e7e32404669455ab50a7cc4e_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_a16b4ae77e7e32404669455ab50a7cc4e_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_a47e7e9a67932bbfafd59a75a6d511238_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_a47e7e9a67932bbfafd59a75a6d511238_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_af9d680db4a881806f9fe79ba1c002df1_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_af9d680db4a881806f9fe79ba1c002df1_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_a16b4ae77e7e32404669455ab50a7cc4e_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_form1_a16b4ae77e7e32404669455ab50a7cc4e_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_a47e7e9a67932bbfafd59a75a6d511238_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_form1_a47e7e9a67932bbfafd59a75a6d511238_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders__inherit__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders__coll__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders__coll__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders__inherit__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders__inherit__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_adfd8b1ab81941bd2c3f22157d5e78378_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_adfd8b1ab81941bd2c3f22157d5e78378_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_adfd8b1ab81941bd2c3f22157d5e78378_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_adfd8b1ab81941bd2c3f22157d5e78378_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_aa04aa43a7ce406ffe815e47f16422668_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_aa04aa43a7ce406ffe815e47f16422668_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_adfd8b1ab81941bd2c3f22157d5e78378_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_adfd8b1ab81941bd2c3f22157d5e78378_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_adfd8b1ab81941bd2c3f22157d5e78378_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_adfd8b1ab81941bd2c3f22157d5e78378_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_aa04aa43a7ce406ffe815e47f16422668_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_aa04aa43a7ce406ffe815e47f16422668_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_a68deaeda6bfb30c919e85e7304037ad5_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_a68deaeda6bfb30c919e85e7304037ad5_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_a68deaeda6bfb30c919e85e7304037ad5_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_a68deaeda6bfb30c919e85e7304037ad5_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_a68deaeda6bfb30c919e85e7304037ad5_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_a68deaeda6bfb30c919e85e7304037ad5_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_a17069582eaf0396d663e03d59208f71f_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_a17069582eaf0396d663e03d59208f71f_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_a68deaeda6bfb30c919e85e7304037ad5_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_a68deaeda6bfb30c919e85e7304037ad5_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_a17069582eaf0396d663e03d59208f71f_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_a17069582eaf0396d663e03d59208f71f_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_a17069582eaf0396d663e03d59208f71f_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_a17069582eaf0396d663e03d59208f71f_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_a5f7d269f76edc56e956c62726c541334_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_a5f7d269f76edc56e956c62726c541334_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_a5f7d269f76edc56e956c62726c541334_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_a5f7d269f76edc56e956c62726c541334_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_a5f7d269f76edc56e956c62726c541334_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_a5f7d269f76edc56e956c62726c541334_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_a17069582eaf0396d663e03d59208f71f_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_orders_a17069582eaf0396d663e03d59208f71f_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_sql_queries_a37c51368541d5d165f188a45df680c26_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_sql_queries_a37c51368541d5d165f188a45df680c26_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_sql_queries_a37c51368541d5d165f188a45df680c26_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_sql_queries_a37c51368541d5d165f188a45df680c26_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_sql_queries_aa2262a95cf3b8460641b79663ad7509e_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_sql_queries_aa2262a95cf3b8460641b79663ad7509e_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_a5f7d269f76edc56e956c62726c541334_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_orders_a5f7d269f76edc56e956c62726c541334_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_sql_queries_aa2262a95cf3b8460641b79663ad7509e_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_sql_queries_aa2262a95cf3b8460641b79663ad7509e_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_sql_queries_a1fddf4e1d2ecebfb016f1231925c59ff_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_sql_queries_a1fddf4e1d2ecebfb016f1231925c59ff_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_sql_queries_a1fddf4e1d2ecebfb016f1231925c59ff_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_sql_queries_a1fddf4e1d2ecebfb016f1231925c59ff_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store__inherit__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store__inherit__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store__coll__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store__inherit__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store__coll__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a976f5080cbc11032a96aace4925c61a9_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a976f5080cbc11032a96aace4925c61a9_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a976f5080cbc11032a96aace4925c61a9_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a976f5080cbc11032a96aace4925c61a9_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a0a4530e8cbd5bb73b2e9c6aeb41b74d1_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a0a4530e8cbd5bb73b2e9c6aeb41b74d1_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a0a4530e8cbd5bb73b2e9c6aeb41b74d1_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a0a4530e8cbd5bb73b2e9c6aeb41b74d1_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a0a4530e8cbd5bb73b2e9c6aeb41b74d1_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a0a4530e8cbd5bb73b2e9c6aeb41b74d1_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a4b1bdbb3b9e66dedb0ae4d7b91884cdf_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a4b1bdbb3b9e66dedb0ae4d7b91884cdf_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a4b1bdbb3b9e66dedb0ae4d7b91884cdf_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a4b1bdbb3b9e66dedb0ae4d7b91884cdf_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a4b1bdbb3b9e66dedb0ae4d7b91884cdf_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a4b1bdbb3b9e66dedb0ae4d7b91884cdf_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_aae062aa9b620a02c4ccb9ab8409eb8bc_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_aae062aa9b620a02c4ccb9ab8409eb8bc_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a0a4530e8cbd5bb73b2e9c6aeb41b74d1_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a0a4530e8cbd5bb73b2e9c6aeb41b74d1_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_aae062aa9b620a02c4ccb9ab8409eb8bc_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_aae062aa9b620a02c4ccb9ab8409eb8bc_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a4b1bdbb3b9e66dedb0ae4d7b91884cdf_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a4b1bdbb3b9e66dedb0ae4d7b91884cdf_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_aae062aa9b620a02c4ccb9ab8409eb8bc_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_aae062aa9b620a02c4ccb9ab8409eb8bc_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_aae062aa9b620a02c4ccb9ab8409eb8bc_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_aae062aa9b620a02c4ccb9ab8409eb8bc_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a72c22ca4fb81518a9de8a519badd7e52_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a72c22ca4fb81518a9de8a519badd7e52_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_properties_1_1_resources__coll__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_properties_1_1_resources__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a72c22ca4fb81518a9de8a519badd7e52_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a72c22ca4fb81518a9de8a519badd7e52_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_properties_1_1_resources__coll__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_properties_1_1_resources__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_properties_1_1_settings__inherit__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_properties_1_1_settings__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a72c22ca4fb81518a9de8a519badd7e52_icgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_store_a72c22ca4fb81518a9de8a519badd7e52_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_properties_1_1_settings__coll__graph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_properties_1_1_settings__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_properties_1_1_settings__inherit__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_properties_1_1_settings__inherit__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a72c22ca4fb81518a9de8a519badd7e52_icgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_store_a72c22ca4fb81518a9de8a519badd7e52_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/class_unit_test_project2_1_1_unit_test1_afd2fde1878f1f371cb7c11b9eac2efd8_cgraph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/class_unit_test_project2_1_1_unit_test1_afd2fde1878f1f371cb7c11b9eac2efd8_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arRunning dot for graph 70/171
+Running dot for graph 71/171
+Running dot for graph 72/171
+Running dot for graph 73/171
+Running dot for graph 74/171
+Running dot for graph 75/171
+Running dot for graph 76/171
+Running dot for graph 77/171
+Running dot for graph 78/171
+Running dot for graph 79/171
+Running dot for graph 80/171
+Running dot for graph 81/171
+Running dot for graph 82/171
+Running dot for graph 83/171
+Running dot for graph 84/171
+Running dot for graph 85/171
+Running dot for graph 86/171
+Running dot for graph 87/171
+Running dot for graph 88/171
+Running dot for graph 89/171
+Running dot for graph 90/171
+Running dot for graph 91/171
+Running dot for graph 92/171
+Running dot for graph 93/171
+Running dot for graph 94/171
+Running dot for graph 95/171
+Running dot for graph 96/171
+Running dot for graph 97/171
+Running dot for graph 98/171
+Running dot for graph 99/171
+Running dot for graph 100/171
+Running dot for graph 101/171
+Running dot for graph 102/171
+Running dot for graph 103/171
+Running dot for graph 104/171
+Running dot for graph 105/171
+Running dot for graph 106/171
+Running dot for graph 107/171
+Running dot for graph 108/171
+Running dot for graph 109/171
+Running dot for graph 110/171
+Running dot for graph 111/171
+Running dot for graph 112/171
+Running dot for graph 113/171
+Running dot for graph 114/171
+Running dot for graph 115/171
+Running dot for graph 116/171
+Running dot for graph 117/171
+Running dot for graph 118/171
+Running dot for graph 119/171
+Running dot for graph 120/171
+Running dot for graph 121/171
+Running dot for graph 122/171
+Running dot for graph 123/171
+Running dot for graph 124/171
+Running dot for graph 125/171
+Running dot for graph 126/171
+Running dot for graph 127/171
+Running dot for graph 128/171
+Running dot for graph 129/171
+Running dot for graph 130/171
+Running dot for graph 131/171
+Running dot for graph 132/171
+Running dot for graph 133/171
+Running dot for graph 134/171
+Running dot for graph 135/171
+Running dot for graph 136/171
+Running dot for graph 137/171
+Running dot for graph 138/171
+Running dot for graph 139/171
+Running dot for graph 140/171
+Running dot for graph 141/171
+Running dot for graph 142/171
+Running dot for graph 143/171
+Running dot for graph 144/171
+Running dot for graph 145/171
+Running dot for graph 146/171
+Running dot for graph 147/171
+Running dot for graph 148/171
+Running dot for graph 149/171
+Running dot for graph 150/171
+Running dot for graph 151/171
+Running dot for graph 152/171
+Running dot for graph 153/171
+Running dot for graph 154/171
+Running dot for graph 155/171
+Running dot for graph 156/171
+Running dot for graph 157/171
+Running dot for graph 158/171
+Running dot for graph 159/171
+Running dot for graph 160/171
+Running dot for graph 161/171
+Running dot for graph 162/171
+Running dot for graph 163/171
+Running dot for graph 164/171
+Running dot for graph 165/171
+Running dot for graph 166/171
+Running dot for graph 167/171
+Running dot for graph 168/171
+Running dot for graph 169/171
+Running dot for graph 170/171
+Running dot for graph 171/171
+Patching output file 1/23
+guments='"C:/Users/Димасик/Desktop/w55186_project/html/graph_legend.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/graph_legend.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/class_unit_test_project2_1_1_unit_test1_afd2fde1878f1f371cb7c11b9eac2efd8_cgraph.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/class_unit_test_project2_1_1_unit_test1_afd2fde1878f1f371cb7c11b9eac2efd8_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_0.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_0.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_2.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_2.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_1.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_1.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_3.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_3.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_properties_1_1_settings__coll__graph.dot" -Tpdf -o "C:/Users/Димасик/Desktop/w55186_project/latex/classproject__bot_1_1_properties_1_1_settings__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_4.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_4.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_7.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_7.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_6.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_6.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_5.dot" -Tpng -o "C:/Users/Димасик/Desktop/w55186_project/html/inherit_graph_5.png"'
+error: problems opening map file C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a3b3cc8b3f93a9fec4f422e7ab30c0dc7_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a69ef72ba53764c2968d6b264eab86d44_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a69ef72ba53764c2968d6b264eab86d44_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory andPatching output file 2/23
+lookup cache used 464/65536 hits=4312 misses=553
+finished...
+ rerun doxygen.
+error: problems opening map file C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_acff8099e110541177e1c0c6999a1f011_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_acff8099e110541177e1c0c6999a1f011_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a6962bb982f14d2f74d0c59f7ba506331_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a3b9c4da6e418aa004cfe639221bfb99e_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a3b9c4da6e418aa004cfe639221bfb99e_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a8ab32e201e6fe3b27d5d5681a419c01f_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file C:/Users/Димасик/Desktop/w55186_project/html/classproject__bot_1_1_add_goods_a8ab32e201e6fe3b27d5d5681a419c01f_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problem writing FIG 0 figure!
+*** Doxygen has finished

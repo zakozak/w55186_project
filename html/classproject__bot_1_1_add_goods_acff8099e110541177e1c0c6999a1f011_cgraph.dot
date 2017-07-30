@@ -1,0 +1,18 @@
+digraph "project_bot.AddGoods.AddGoods_Load"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node17 [label="project_bot.AddGoods.Add\lGoods_Load",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node17 -> Node18 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="project_bot.AddGoods.load\lFromMDBFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_add_goods.html#a8ab32e201e6fe3b27d5d5681a419c01f"];
+  Node18 -> Node19 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="project_bot.Connection.fill\lDataSet",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_connection.html#af68118c08e33fec46caeb1c4b904d588",tooltip="filling data set "];
+  Node18 -> Node20 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="project_bot.Connection.load\lDataBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_connection.html#a03f99178a79b05fef2f3a429a0a04df4",tooltip="filling data table "];
+  Node20 -> Node19 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 -> Node21 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="project_bot.Connection.fill\lDataWeGetBefore",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_connection.html#a67557fe025a012e4ab1ad9bb949cb9c0",tooltip="filling data apadter "];
+  Node17 -> Node22 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="project_bot.SqlQueries.custom_que",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_sql_queries.html#aa2262a95cf3b8460641b79663ad7509e",tooltip="metoday dla wprowadzania wlasnej kwerendy (recznie) "];
+}

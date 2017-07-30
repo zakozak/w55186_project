@@ -1,0 +1,18 @@
+digraph "project_bot.Store.Store_Load"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node35 [label="project_bot.Store.Store_Load",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node35 -> Node36 [color="midnightblue",fontsize="10",style="solid"];
+  Node36 [label="project_bot.Store.loadFrom\lMDBFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_store.html#aae062aa9b620a02c4ccb9ab8409eb8bc"];
+  Node36 -> Node37 [color="midnightblue",fontsize="10",style="solid"];
+  Node37 [label="project_bot.Connection.fill\lDataSet",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_connection.html#af68118c08e33fec46caeb1c4b904d588",tooltip="filling data set "];
+  Node36 -> Node38 [color="midnightblue",fontsize="10",style="solid"];
+  Node38 [label="project_bot.Connection.load\lDataBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_connection.html#a03f99178a79b05fef2f3a429a0a04df4",tooltip="filling data table "];
+  Node38 -> Node37 [color="midnightblue",fontsize="10",style="solid"];
+  Node36 -> Node39 [color="midnightblue",fontsize="10",style="solid"];
+  Node39 [label="project_bot.Connection.fill\lDataWeGetBefore",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_connection.html#a67557fe025a012e4ab1ad9bb949cb9c0",tooltip="filling data apadter "];
+  Node35 -> Node40 [color="midnightblue",fontsize="10",style="solid"];
+  Node40 [label="project_bot.SqlQueries.custom_que",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_sql_queries.html#aa2262a95cf3b8460641b79663ad7509e",tooltip="metoday dla wprowadzania wlasnej kwerendy (recznie) "];
+}

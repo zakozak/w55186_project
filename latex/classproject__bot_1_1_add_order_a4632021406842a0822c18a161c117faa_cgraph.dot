@@ -1,0 +1,11 @@
+digraph "project_bot.AddOrder.order_Click"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node51 [label="project_bot.AddOrder.order\l_Click",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node51 -> Node52 [color="midnightblue",fontsize="10",style="solid"];
+  Node52 [label="project_bot.SqlQueries.update",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_sql_queries.html#a1fddf4e1d2ecebfb016f1231925c59ff",tooltip="aktuakizacja danych w istniejacym wpisie "];
+  Node51 -> Node53 [color="midnightblue",fontsize="10",style="solid"];
+  Node53 [label="project_bot.SqlQueries.add",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_sql_queries.html#a37c51368541d5d165f188a45df680c26",tooltip="dodanie dobazy nowego wpisu "];
+}

@@ -1,0 +1,119 @@
+\hypertarget{classproject__bot_1_1_sql_queries}{}\section{project\+\_\+bot.\+Sql\+Queries Class Reference}
+\label{classproject__bot_1_1_sql_queries}\index{project\+\_\+bot.\+Sql\+Queries@{project\+\_\+bot.\+Sql\+Queries}}
+
+
+klasa dla realizacji kwerend oraz zmian do bazy danych.  
+
+
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+Data\+Set \hyperlink{classproject__bot_1_1_sql_queries_aa2262a95cf3b8460641b79663ad7509e}{custom\+\_\+que} (String query, String Table\+Name)
+\begin{DoxyCompactList}\small\item\em metoday dla wprowadzania wlasnej kwerendy (recznie) \end{DoxyCompactList}\item 
+void \hyperlink{classproject__bot_1_1_sql_queries_a37c51368541d5d165f188a45df680c26}{add} (string Table\+Name, string Columns\+Names, string New\+Data)
+\begin{DoxyCompactList}\small\item\em dodanie dobazy nowego wpisu \end{DoxyCompactList}\item 
+void \hyperlink{classproject__bot_1_1_sql_queries_a1fddf4e1d2ecebfb016f1231925c59ff}{update} (String Table\+Name, String Column\+Name, String Text\+In\+Cell, String I\+D\+Column, String Cell\+Text)
+\begin{DoxyCompactList}\small\item\em aktuakizacja danych w istniejacym wpisie \end{DoxyCompactList}\end{DoxyCompactItemize}
+\subsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+Ole\+Db\+Connection \hyperlink{classproject__bot_1_1_sql_queries_a88f05b8fbe30a50c5a365460137c1343}{con}
+\item 
+Ole\+Db\+Data\+Adapter \hyperlink{classproject__bot_1_1_sql_queries_a25a5b361f284f2e985069dd3b9ff5036}{ad}
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+klasa dla realizacji kwerend oraz zmian do bazy danych. 
+
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{classproject__bot_1_1_sql_queries_a37c51368541d5d165f188a45df680c26}\label{classproject__bot_1_1_sql_queries_a37c51368541d5d165f188a45df680c26}} 
+\index{project\+\_\+bot\+::\+Sql\+Queries@{project\+\_\+bot\+::\+Sql\+Queries}!add@{add}}
+\index{add@{add}!project\+\_\+bot\+::\+Sql\+Queries@{project\+\_\+bot\+::\+Sql\+Queries}}
+\subsubsection{\texorpdfstring{add()}{add()}}
+{\footnotesize\ttfamily void project\+\_\+bot.\+Sql\+Queries.\+add (\begin{DoxyParamCaption}\item[{string}]{Table\+Name,  }\item[{string}]{Columns\+Names,  }\item[{string}]{New\+Data }\end{DoxyParamCaption})}
+
+
+
+dodanie dobazy nowego wpisu 
+
+
+\begin{DoxyParams}{Parameters}
+{\em Table\+Name} & \\
+\hline
+{\em Columns\+Names} & \\
+\hline
+{\em New\+Data} & \\
+\hline
+\end{DoxyParams}
+Here is the caller graph for this function\+:
+% FIG 0
+\mbox{\Hypertarget{classproject__bot_1_1_sql_queries_aa2262a95cf3b8460641b79663ad7509e}\label{classproject__bot_1_1_sql_queries_aa2262a95cf3b8460641b79663ad7509e}} 
+\index{project\+\_\+bot\+::\+Sql\+Queries@{project\+\_\+bot\+::\+Sql\+Queries}!custom\+\_\+que@{custom\+\_\+que}}
+\index{custom\+\_\+que@{custom\+\_\+que}!project\+\_\+bot\+::\+Sql\+Queries@{project\+\_\+bot\+::\+Sql\+Queries}}
+\subsubsection{\texorpdfstring{custom\+\_\+que()}{custom\_que()}}
+{\footnotesize\ttfamily Data\+Set project\+\_\+bot.\+Sql\+Queries.\+custom\+\_\+que (\begin{DoxyParamCaption}\item[{String}]{query,  }\item[{String}]{Table\+Name }\end{DoxyParamCaption})}
+
+
+
+metoday dla wprowadzania wlasnej kwerendy (recznie) 
+
+
+\begin{DoxyParams}{Parameters}
+{\em query} & \\
+\hline
+{\em Table\+Name} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+Here is the caller graph for this function\+:
+% FIG 1
+\mbox{\Hypertarget{classproject__bot_1_1_sql_queries_a1fddf4e1d2ecebfb016f1231925c59ff}\label{classproject__bot_1_1_sql_queries_a1fddf4e1d2ecebfb016f1231925c59ff}} 
+\index{project\+\_\+bot\+::\+Sql\+Queries@{project\+\_\+bot\+::\+Sql\+Queries}!update@{update}}
+\index{update@{update}!project\+\_\+bot\+::\+Sql\+Queries@{project\+\_\+bot\+::\+Sql\+Queries}}
+\subsubsection{\texorpdfstring{update()}{update()}}
+{\footnotesize\ttfamily void project\+\_\+bot.\+Sql\+Queries.\+update (\begin{DoxyParamCaption}\item[{String}]{Table\+Name,  }\item[{String}]{Column\+Name,  }\item[{String}]{Text\+In\+Cell,  }\item[{String}]{I\+D\+Column,  }\item[{String}]{Cell\+Text }\end{DoxyParamCaption})}
+
+
+
+aktuakizacja danych w istniejacym wpisie 
+
+
+\begin{DoxyParams}{Parameters}
+{\em Table\+Name} & \\
+\hline
+{\em Column\+Name} & \\
+\hline
+{\em Text\+In\+Cell} & \\
+\hline
+{\em I\+D\+Column} & \\
+\hline
+{\em Cell\+Text} & \\
+\hline
+\end{DoxyParams}
+Here is the caller graph for this function\+:
+% FIG 2
+
+
+\subsection{Member Data Documentation}
+\mbox{\Hypertarget{classproject__bot_1_1_sql_queries_a25a5b361f284f2e985069dd3b9ff5036}\label{classproject__bot_1_1_sql_queries_a25a5b361f284f2e985069dd3b9ff5036}} 
+\index{project\+\_\+bot\+::\+Sql\+Queries@{project\+\_\+bot\+::\+Sql\+Queries}!ad@{ad}}
+\index{ad@{ad}!project\+\_\+bot\+::\+Sql\+Queries@{project\+\_\+bot\+::\+Sql\+Queries}}
+\subsubsection{\texorpdfstring{ad}{ad}}
+{\footnotesize\ttfamily Ole\+Db\+Data\+Adapter project\+\_\+bot.\+Sql\+Queries.\+ad\hspace{0.3cm}{\ttfamily [private]}}
+
+\mbox{\Hypertarget{classproject__bot_1_1_sql_queries_a88f05b8fbe30a50c5a365460137c1343}\label{classproject__bot_1_1_sql_queries_a88f05b8fbe30a50c5a365460137c1343}} 
+\index{project\+\_\+bot\+::\+Sql\+Queries@{project\+\_\+bot\+::\+Sql\+Queries}!con@{con}}
+\index{con@{con}!project\+\_\+bot\+::\+Sql\+Queries@{project\+\_\+bot\+::\+Sql\+Queries}}
+\subsubsection{\texorpdfstring{con}{con}}
+{\footnotesize\ttfamily Ole\+Db\+Connection project\+\_\+bot.\+Sql\+Queries.\+con\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+project\+\_\+bot/\hyperlink{sql_queries_8cs}{sql\+Queries.\+cs}\end{DoxyCompactItemize}

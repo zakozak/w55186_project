@@ -9,13 +9,20 @@ using System.Windows.Forms;
 
 namespace project_bot
 {
-    // klasa dla realizacji kwerend oraz zmian do bazy danych. 
+    /// <summary>
+    /// klasa dla realizacji kwerend oraz zmian do bazy danych.
+    /// </summary>
     public class SqlQueries
     {
         OleDbConnection con;        // zwiazek z pkiem bazy
         OleDbDataAdapter ad;        // adapter dla dostepu do danych
 
-        // metoday dla wprowadzania wlasnej kwerendy (recznie)
+        /// <summary>
+        /// metoday dla wprowadzania wlasnej kwerendy (recznie)
+        /// </summary>
+        /// <param name="query"></param>
+        /// <param name="TableName"></param>
+        /// <returns></returns>
         public DataSet custom_que(String query, String TableName)
         {
             con = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\database.mdb;");
@@ -35,7 +42,12 @@ namespace project_bot
             return ds;
         }
 
-        // dodanie dobazy nowego wpisu
+        /// <summary>
+        /// dodanie dobazy nowego wpisu
+        /// </summary>
+        /// <param name="TableName"></param>
+        /// <param name="ColumnsNames"></param>
+        /// <param name="NewData"></param>
         public void add(string TableName, string ColumnsNames, string NewData)
         {
             string Insert = "INSERT INTO `" + TableName + "` ( " + ColumnsNames + " ) VALUES ( " + NewData + ")";
@@ -57,8 +69,15 @@ namespace project_bot
                 con.Close();
             }
         }
-
-        // aktuakizacja danych w istniejacym wpisie
+    
+        /// <summary>
+        /// aktuakizacja danych w istniejacym wpisie
+        /// </summary>
+        /// <param name="TableName"></param>
+        /// <param name="ColumnName"></param>
+        /// <param name="TextInCell"></param>
+        /// <param name="IDColumn"></param>
+        /// <param name="CellText"></param>
         public void update(String TableName, String ColumnName, String TextInCell, String IDColumn, String CellText)
         {
             OleDbDataAdapter ad = new OleDbDataAdapter("SELECT * FROM " + TableName + "", con);

@@ -8,14 +8,20 @@ using System.Threading.Tasks;
 
 namespace project_bot
 {
-    // klasa dla podlacznia do pliku bazy na komputerze
+    /// <summary>
+    /// klasa dla podlacznia do pliku bazy na komputerze
+    /// </summary>
     public class Connection
     {
         OleDbConnection con = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\database.mdb;");
 
         public Connection() { }
 
-        // filling data apadter
+        /// <summary>
+        /// filling data apadter
+        /// </summary>
+        /// <param name="table_name"></param>
+        /// <returns></returns>
         public OleDbDataAdapter fillDataWeGetBefore(String table_name)
         {
             OleDbCommand com = new OleDbCommand("SELECT * FROM " + table_name, con);
@@ -24,7 +30,10 @@ namespace project_bot
             return dataAdapter;
         }
 
-        // filling data set
+        /// <summary>
+        /// filling data set
+        /// </summary>
+        /// <returns></returns>
         public DataSet fillDataSet()
         {
             con.Close();
@@ -37,7 +46,10 @@ namespace project_bot
             return ds;
         }
 
-        // filling data table
+        /// <summary>
+        /// filling data table
+        /// </summary>
+        /// <returns></returns>
         public DataTable loadDataBase()
         {
             DataTable t1 = null;

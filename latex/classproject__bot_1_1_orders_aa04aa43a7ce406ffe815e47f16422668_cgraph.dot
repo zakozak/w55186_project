@@ -1,0 +1,25 @@
+digraph "project_bot.Orders.Orders"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="project_bot.Orders.Orders",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid"];
+  Node1 [label="project_bot.Orders.Initialize\lComponent",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_orders.html#a68deaeda6bfb30c919e85e7304037ad5",tooltip="Required method for Designer support - do not modify the contents of this method with the code editor..."];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid"];
+  Node2 [label="project_bot.Orders.button1\l_Click",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_orders.html#adfd8b1ab81941bd2c3f22157d5e78378"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid"];
+  Node3 [label="project_bot.SqlQueries.custom_que",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_sql_queries.html#aa2262a95cf3b8460641b79663ad7509e",tooltip="metoday dla wprowadzania wlasnej kwerendy (recznie) "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid"];
+  Node4 [label="project_bot.Orders.Orders_Load",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_orders.html#a5f7d269f76edc56e956c62726c541334"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid"];
+  Node5 [label="project_bot.Orders.loadFrom\lMDBFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_orders.html#a17069582eaf0396d663e03d59208f71f"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid"];
+  Node6 [label="project_bot.Connection.fill\lDataSet",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_connection.html#af68118c08e33fec46caeb1c4b904d588",tooltip="filling data set "];
+  Node5 -> Node7 [color="midnightblue",fontsize="10",style="solid"];
+  Node7 [label="project_bot.Connection.load\lDataBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_connection.html#a03f99178a79b05fef2f3a429a0a04df4",tooltip="filling data table "];
+  Node7 -> Node6 [color="midnightblue",fontsize="10",style="solid"];
+  Node5 -> Node8 [color="midnightblue",fontsize="10",style="solid"];
+  Node8 [label="project_bot.Connection.fill\lDataWeGetBefore",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classproject__bot_1_1_connection.html#a67557fe025a012e4ab1ad9bb949cb9c0",tooltip="filling data apadter "];
+  Node4 -> Node3 [color="midnightblue",fontsize="10",style="solid"];
+}
