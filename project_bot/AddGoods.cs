@@ -22,6 +22,7 @@ namespace project_bot
             InitializeComponent();
         }
 
+        // wczytawanie danych
         public void loadFromMDBFile()
         {
             ds = con.fillDataSet();
@@ -36,6 +37,7 @@ namespace project_bot
             }
         }
 
+        // uzupelnienie pol na formie
         private void AddGoods_Load(object sender, EventArgs e)
         {
             con = new Connection();
@@ -49,6 +51,7 @@ namespace project_bot
                 comboGPU.Items.Add(dataGridView.Rows[i].Cells[0].Value.ToString());
         }
 
+        // zdarzenie po kliknieciu add - dodanie nowego wpisu do bazy
         private void add_Click(object sender, EventArgs e)
         {
             int new_quantity = 0;
@@ -60,6 +63,7 @@ namespace project_bot
             sqlQue.update("store", "quantity", new_quantity.ToString(), "gpu_name", comboGPU.SelectedItem.ToString());
         }
 
+        // zamkniecie formy
         private void close_Click(object sender, EventArgs e)
         {
             this.Close();

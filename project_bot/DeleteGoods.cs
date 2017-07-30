@@ -22,11 +22,13 @@ namespace project_bot
             InitializeComponent();
         }
 
+        // zamkniecie formy
         private void close_Click(object sender, EventArgs e)
         {
             Close();
         }
 
+        // wprowadzanie danych przy uruchomieniu programu
         private void DeleteGoods_Load(object sender, EventArgs e)
         {
             con = new Connection();
@@ -40,6 +42,7 @@ namespace project_bot
                 comboGPU.Items.Add(dataGridView.Rows[i].Cells[0].Value.ToString());
         }
 
+        // wczytywanie danych
         public void loadFromMDBFile()
         {
             ds = con.fillDataSet();
@@ -55,6 +58,7 @@ namespace project_bot
 
         }
 
+        // usuniecie wprowadzonej ilosci towaru z bazy
         private void delete_Click(object sender, EventArgs e)
         {
             int new_quantity = 0;

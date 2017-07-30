@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace project_bot
 {
+    // klasa dla podlacznia do pliku bazy na komputerze
     public class Connection
     {
         OleDbConnection con = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\database.mdb;");

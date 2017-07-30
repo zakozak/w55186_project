@@ -22,6 +22,7 @@ namespace project_bot
             InitializeComponent();
         }
 
+        // wczytywanie danych
         public void loadFromMDBFile()
         {
             ds = con.fillDataSet();
@@ -36,6 +37,7 @@ namespace project_bot
             }
         }
 
+        // przy zmianie danych tego pola obliczyc nowa informache
         private void textBox_TextChanged(object sender, EventArgs e)
         {
             int new_price = 0;
@@ -52,6 +54,7 @@ namespace project_bot
             { }
         }
 
+        // wprowadzanie danych przy uruchomieniu programu
         private void AddOrder_Load(object sender, EventArgs e)
         {
             con = new Connection();
@@ -65,6 +68,7 @@ namespace project_bot
                 comboGPU.Items.Add(dataGridView.Rows[i].Cells[0].Value.ToString());
         }
 
+        // dodanie danych o zomowieniu do bazy
         private void order_Click(object sender, EventArgs e)
         {
             int new_quantity = 0;
@@ -79,6 +83,7 @@ namespace project_bot
                 "'" + comboGPU.SelectedItem.ToString() + "', '" + quantity.Text.ToString() + "', '" + price.Text.ToString() + "', '" + contacts.Text.ToString() + "', '" + notes.Text.ToString() + "'");
         }
 
+        // zamkniecie formy
         private void close_Click(object sender, EventArgs e)
         {
             Close();

@@ -22,6 +22,7 @@ namespace project_bot
             InitializeComponent();
         }
 
+        // wprowadzanie danych przy uruchomieniu programu
         private void Store_Load(object sender, EventArgs e)
         {
             con = new Connection();
@@ -32,6 +33,7 @@ namespace project_bot
             dataGridView.DataMember = "store";
         }
 
+        // wczytywanie danych
         public void loadFromMDBFile()
         {
             ds = con.fillDataSet();
@@ -46,6 +48,7 @@ namespace project_bot
             }
         }
 
+        // wyswitlanie danych o towarach w magazynie
         private void button1_Click(object sender, EventArgs e)
         {
             dataGridView.DataSource = sqlQue.custom_que("SELECT * FROM `store`", "store");

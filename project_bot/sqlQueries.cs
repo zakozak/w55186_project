@@ -9,11 +9,13 @@ using System.Windows.Forms;
 
 namespace project_bot
 {
+    // klasa dla realizacji kwerend oraz zmian do bazy danych. 
     public class SqlQueries
     {
-        OleDbConnection con;
-        OleDbDataAdapter ad;
+        OleDbConnection con;        // zwiazek z pkiem bazy
+        OleDbDataAdapter ad;        // adapter dla dostepu do danych
 
+        // metoday dla wprowadzania wlasnej kwerendy (recznie)
         public DataSet custom_que(String query, String TableName)
         {
             con = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\database.mdb;");
@@ -33,6 +35,7 @@ namespace project_bot
             return ds;
         }
 
+        // dodanie dobazy nowego wpisu
         public void add(string TableName, string ColumnsNames, string NewData)
         {
             string Insert = "INSERT INTO `" + TableName + "` ( " + ColumnsNames + " ) VALUES ( " + NewData + ")";
@@ -55,6 +58,7 @@ namespace project_bot
             }
         }
 
+        // aktuakizacja danych w istniejacym wpisie
         public void update(String TableName, String ColumnName, String TextInCell, String IDColumn, String CellText)
         {
             OleDbDataAdapter ad = new OleDbDataAdapter("SELECT * FROM " + TableName + "", con);
